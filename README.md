@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhanushullas
-- 👀 I’m interested in ... UI/UX Design and FrontEnd Development 
-- 🌱 I’m currently learning ... In detail about design fundamentals
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Software Development and Testing
+- 🌱 I’m currently learning ... In detail about the Importance of Roles played in a development environment
 - 📫 How to reach me ...  dhanushullas@gmail.com
 
 <!---
